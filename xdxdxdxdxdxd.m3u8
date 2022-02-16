@@ -1,0 +1,6 @@
+
+#EXTM3U
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=620000,RESOLUTION=640x268,CODECS="mp4a.40.2,avc1.77.30",CLOSED-CAPTIONS=NONE
+https://steep-truth-5ad8.freeserver1.workers.dev/0:/P3l1s/XDD/tt13978306.mp4.m3u8
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=120000,CODECS="mp4a.40.2"
+https://videos-fms.jwpsrv.com/0_620e0b45_0x8317a31ad05f6000bc4095f6381ee2481a499fc6/content/conversions/TTwkFBeB/videos/sdmLh9oi-33960814.m4a.m3u8
