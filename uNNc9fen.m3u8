@@ -1,9 +1,7 @@
 #EXTM3U
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=470000,RESOLUTION=3840 x 2160,CODECS="mp4a.40.2,avc1.77.30",CLOSED-CAPTIONS=NONE
-https://steep-truth-5ad8.freeserver1.workers.dev/0:/P3l1s/XDD/V3n0m%20%20(2021)4k%20Latino.mkv.m3u8
-
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2620000,RESOLUTION=1920x1080,CODECS="mp4a.40.5,avc1.77.30",CLOSED-CAPTIONS=NONE
-https://steep-truth-5ad8.freeserver1.workers.dev/0:/P3l1s/XDD/%20V3n0m%202021%201080p%20Latino.mkv.m3u8
-
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=120000,CODECS="mp4a.40.2"
-https://steep-truth-5ad8.freeserver1.workers.dev/0:/P3l1s/XDD/xM9gnES5-33987000.m4a
+#EXT-X-VERSION:3
+#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio",LANGUAGE="ESPAÑOL",NAME="ESPAÑOL",AUTOSELECT=NO,URI="https://steep-truth-5ad8.freeserver1.workers.dev/0:/P3l1s/XDD/xM9gnES5-33987000.m4a"
+#EXT-X-STREAM-INF:BANDWIDTH=800000,RESOLUTION=3840 x 2160,AUDIO="audio"
+https://www.googleapis.com/drive/v3/files/165XfjhB3XckQed8njnqhruygEnCVG5po?alt=media&key=AIzaSyAx3YrQ8Swm-93_bs5g4Prtpatg1nTH6PY
+#EXT-X-STREAM-INF:BANDWIDTH=5000000,RESOLUTION=1080x1920,AUDIO="audio"
+https://www.googleapis.com/drive/v3/files/1Uk-D02qRHEl94XH0iPEuVH_tpNVx6EL9?alt=media&key=AIzaSyAx3YrQ8Swm-93_bs5g4Prtpatg1nTH6PY
