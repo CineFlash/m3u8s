@@ -1,0 +1,12 @@
+#EXTM3U
+https://storage.googleapis.com/armandolesme.appspot.com/p3l1s/C0nj4r0%201.mp4
+#EXT-X-STREAM-INF:PROGRAM-ID=1,RESOLUTION=1280x720,CODECS="mp4a.40.2,avc1.4d401f"
+https://storage.googleapis.com/armandolesme.appspot.com/p3l1s/C0nj4r0%201.mp4
+#EXT-X-STREAM-INF:PROGRAM-ID=1,RESOLUTION=960x540
+https://storage.googleapis.com/armandolesme.appspot.com/p3l1s/C0nj4r0%201.mp4
+#EXT-X-STREAM-INF:PROGRAM-ID=1,RESOLUTION=480x270
+https://storage.googleapis.com/armandolesme.appspot.com/p3l1s/C0nj4r0%201.mp4
+#EXT-X-STREAM-INF:PROGRAM-ID=1,RESOLUTION=320x180
+https://storage.googleapis.com/armandolesme.appspot.com/p3l1s/C0nj4r0%201.mp4
+#EXT-X-STREAM-INF:PROGRAM-ID=1,CODECS="mp4a.40.2"
+https://storage.googleapis.com/armandolesme.appspot.com/p3l1s/C0nj4r0%201.mp4
